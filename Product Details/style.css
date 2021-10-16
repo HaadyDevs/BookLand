@@ -48,7 +48,7 @@ img{
 .product-title{
     font-size: 3rem;
     text-transform: capitalize;
-    font-weight: 700;
+    font-weight: 800;
     position: relative;
     color: #12263a;
     margin: 1rem 0;
@@ -78,7 +78,7 @@ img{
     opacity: 0.9;
 }
 .product-rating{
-    color: #ffc107;
+    color: #FFBF00;
 }
 .product-rating span{
     font-weight: 600;
@@ -153,7 +153,7 @@ img{
     background: #f64749;
 }
 .purchase-info .btn:hover{
-    opacity: 0.9;
+    opacity: 0.8;
 }
 .social-links{
     display: flex;
